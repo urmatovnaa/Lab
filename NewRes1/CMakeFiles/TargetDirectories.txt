@@ -1,0 +1,3 @@
+C:/Users/manyo/OneDrive/Документы/GitHub/Lab/NewRes1/CMakeFiles/NewRes1.dir
+C:/Users/manyo/OneDrive/Документы/GitHub/Lab/NewRes1/CMakeFiles/ALL_BUILD.dir
+C:/Users/manyo/OneDrive/Документы/GitHub/Lab/NewRes1/CMakeFiles/ZERO_CHECK.dir
