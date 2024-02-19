@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/NewRes2.dir/lab_2.cpp.o -o NewRes2 
