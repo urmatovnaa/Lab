@@ -1,0 +1,3 @@
+/home/killua/Desktop/laba_1/NewRes2/CMakeFiles/NewRes2.dir
+/home/killua/Desktop/laba_1/NewRes2/CMakeFiles/edit_cache.dir
+/home/killua/Desktop/laba_1/NewRes2/CMakeFiles/rebuild_cache.dir
